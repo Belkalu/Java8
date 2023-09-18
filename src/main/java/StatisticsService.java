@@ -1,4 +1,3 @@
-
 package ru.netology.statistic;
 
 public class StatisticsService {
@@ -11,5 +10,4 @@ public class StatisticsService {
         }
         return currentMax;
     }
-
 }
